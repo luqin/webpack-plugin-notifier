@@ -1,0 +1,21 @@
+{
+  "name": "webpack-plugin-notifier",
+  "version": "0.1.0",
+  "description": "webpack plugin that show build status with system notifications",
+  "dependencies": {
+    "node-notifier": "^4.3.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luqin/webpack-plugin-notifier.git"
+  },
+  "keywords": [
+    "notifications",
+    "webpack",
+    "webpack-plugin",
+    "notifier"
+  ]
+}
